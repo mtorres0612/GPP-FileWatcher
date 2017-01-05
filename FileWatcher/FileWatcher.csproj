@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Server - Operation\IAPL.Transport\IAPL.Transport\IAPL.Transport.Main.csproj">
+    <ProjectReference Include="..\IAPL.Transport\IAPL.Transport\IAPL.Transport.Main.csproj">
       <Project>{dd23cafe-f42f-4495-b2c1-7b177046397b}</Project>
       <Name>IAPL.Transport.Main</Name>
     </ProjectReference>
